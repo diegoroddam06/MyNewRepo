@@ -11,3 +11,10 @@ This is my first GitHub repository
 8. 
 9. 
 10.
+x
+x
+x
+x
+x
+x
+
